@@ -1,0 +1,16 @@
+#root{
+    display: flex;
+    height: 100vh;
+}
+.left{
+    padding: 20px;
+    width: 40%;
+    height: 100%;
+    background-color: bisque;
+}
+.right{
+    padding: 20px;
+    width: 60%;
+    height: 100%;
+    background-color: aquamarine;
+}
